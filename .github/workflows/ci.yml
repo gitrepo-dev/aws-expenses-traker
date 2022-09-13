@@ -3,7 +3,7 @@ name: react-aws-expenses-traker #name of your workflow
 on: #event
   push:
     branches:
-      - develop
+      - master
 
 jobs:
   deploy:
